@@ -120,7 +120,7 @@ ft_printf("Student: %s, Age: %d, Score: %u, Hex: %x\n", "Pavel", 22, 100, 255);
 - [`ft_putnbrf.c`](ft_putnbrf.c) - Prints formatted integers.
 - [`ft_putnbrf_base.c`](ft_putnbrf_base.c) - Prints formatted unsigned integers with selected base.
 - [`ft_putptrf.c`](ft_putptrf.c) - Prints formatted pointers.
-- [`ft_putstrf.c`](ft_putstrf.c) - Printf formatted strings.
+- [`ft_putstrf.c`](ft_putstrf.c) - Prints formatted strings.
 
 ## 🤝 Contributing
 Contributions, bug reports, and feature requests are welcome! Feel free to open an issue or submit a pull request.
